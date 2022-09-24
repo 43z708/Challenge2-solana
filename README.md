@@ -1,8 +1,4 @@
-# Challenge 1 Solana - Airdrop test
-
-Modified to ask if the user already has a public address, and if so, airdrop to the entered public address, and if not, generate a public address and airdrop.
-
-Sample public address generated: CtvboQPuVp1ia4Sk4HhfnAuvanMrz7C5DXefKRGv4iT
+# Challenge 2 Solana - Transfer test
 
 Solana dev net link:
-https://explorer.solana.com/address/CtvboQPuVp1ia4Sk4HhfnAuvanMrz7C5DXefKRGv4iT?cluster=devnet
+https://explorer.solana.com/tx/394PyXmEHALpD4kDKFC9yHqomRjWawvkJhXxZKoXHP8UarPYhUmYh78nENwpgD2ZUAt99BmjG3VecJtEVoAqKVPe?cluster=devnet
